@@ -32,7 +32,7 @@
     "cors": "^2.8.4",
     "dotenv": "^5.0.1",
     "ejs": "^3.1.10",
-    "express": "^4.16.2",
+    "express": "^4.20.0",
     "express-validation": "^1.0.2",
     "helmet": "^3.11.0",
     "http-status": "^1.0.1",
